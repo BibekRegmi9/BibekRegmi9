@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibek</h1>
-<h3 align="center">Golang enthusiastic, Landed on mars using Nodejs. Currently building a new planet with Laravel.</h3>
+<h3 align="center">OpenSource enthusiastic, Landed on mars using Nodejs. Currently building a new planet with Laravel.</h3>
 
 - 🌱 I’m currently learning **Laravel**
 
