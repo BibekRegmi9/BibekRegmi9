@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bibek</h1>
-<h3 align="center">OpenSource enthusiastic, Landed on mars using Nodejs. Currently building a new planet with Laravel.</h3>
+<h3 align="center">OpenSource enthusiastic, Landed on Mars using Nodejs. Currently building a new planet with Node.</h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Fastify|Graphql|gRPC|Kubernetes**
 
 - 👯 I’m looking to collaborate on **Backend Projects.**
 
