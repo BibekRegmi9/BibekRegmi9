@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bibek</h1>
-<h3 align="center">------------------------------------------------------------------------------</h3>
+<h3 align="center">----------------------------------------------------------------------------------------------------------------------</h3>
 
 - 🌱 I’m currently learning **Fastify|Graphql|gRPC|Kubernetes**
 
 - 👯 I’m looking to collaborate on **Backend Projects.**
 
-- 💬 Ask me about **Nodejs**
+- 💬 Ask me about **Nodejs|Nestjs|Postgresql|**
 
 - 📫 How to reach me **vivekregmi83@gmail.com**
 
